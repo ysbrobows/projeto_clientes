@@ -15,11 +15,10 @@ namespace projeto_clientes
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
+                // Removed HSTS configuration
             }
 
-            app.UseHttpsRedirection();
+            // Removed HTTPS redirection
             app.UseStaticFiles();
 
             app.UseRouting();
