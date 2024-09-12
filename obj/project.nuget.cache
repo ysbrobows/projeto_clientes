@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kXLgGxzVd/nrayL7seb+9lS3cs05VgqpmSk5Vfyvnemyg0Jjw/oczDyedrN6V31Y4ZlwWwoanvquUbiF2yOzKw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Eduarda\\projeto_clientes\\projeto_clientes\\projeto_clientes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
